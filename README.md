@@ -9,7 +9,7 @@ Contact send to slack.
 4. setting apigateway cors ([reference url](http://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html))
 
 ## request
-```json
+```bash
 {
   name:"foo",
   email:"hoge@hoge.com",
